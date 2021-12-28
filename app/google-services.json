@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161051882157",
+    "firebase_url": "https://groceryassitant.firebaseio.com",
+    "project_id": "groceryassitant",
+    "storage_bucket": "groceryassitant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161051882157:android:9251c9e1e425ca02410c24",
+        "android_client_info": {
+          "package_name": "com.bachelor.groceryassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161051882157-vaef6enlg5iccpf789gob9759208ct4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptYaBZAvy80-J4s9Ph526VtEObhPo1AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161051882157-vaef6enlg5iccpf789gob9759208ct4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

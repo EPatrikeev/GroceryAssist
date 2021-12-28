@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grocery Assistant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Evgeny Patrikeev</string>
+    <string name="nav_header_subtitle">evgeny.patrikeev@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Попупки</string>
+    <string name="menu_history">История</string>
+    <string name="menu_about">О программе</string>
+
+
+    <string name="dialog_add_item">Название</string>
+    <string name="dialog_add_price">100.00</string>
+    <string name="dialog_add_quantity">0.5</string>
+
+
+</resources>
